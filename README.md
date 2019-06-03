@@ -1,2 +1,2 @@
 # cube
-A simple cube
+A simple cube with THREE.JS.
